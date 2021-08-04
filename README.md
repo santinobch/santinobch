@@ -16,7 +16,7 @@
 - I can speak, read & write spanish, *amigo!* English is not my native language. *¿Pero a que hablo bien no?*
 - I'm really good at fixing stuff, especially if it's a computer.
 - Favourite game: ~~L̶e̸a̸g̶u̷e̶ ̷o̵f̶ ̶L̴e̶g̴e̵n̴d̶s̴~~ Dungeons & Dragons.
-- I like to use **uwu**
+- I like to use **uwu** a ***lot***
 
 ## Tools i use 🧨
 
