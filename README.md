@@ -9,11 +9,12 @@
 
 ## About me 🧾
 - Full stack web developer.
-- Worked as IT for 3~ years.
-- Programmer for 2~ years (started with Arduino), 1~ year of working experience in diferent companies.
+- I worked in IT for 3~ years.
+- Programmer for 2~ years (started with Arduino), 1~ year of working experience in different companies.
 - Currently attending the [U.N.A.](https://visuales.una.edu.ar) (Arts college), for a degree in *"Visual Arts with Orientation in Drawing"*.
 - Also currently attending [Digital House](https://www.digitalhouse.com/ar/) for a *full stack web dev certification*.
-- Favourite game: ~~L̶e̸a̸g̶u̷e̶ ̷o̵f̶ ̶L̴e̶g̴e̵n̴d̶s̴~~ Dungeons & Dragons
+- I'm really good at fixing stuff, especially if it's a computer.
+- Favourite game: ~~L̶e̸a̸g̶u̷e̶ ̷o̵f̶ ̶L̴e̶g̴e̵n̴d̶s̴~~ Dungeons & Dragons.
 - I like to use **uwu**
 
 ## Tools i use 🧨
