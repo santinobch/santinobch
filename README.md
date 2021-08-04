@@ -13,6 +13,7 @@
 - Programmer for 2~ years (started with Arduino), 1~ year of working experience in different companies.
 - Currently attending the [U.N.A.](https://visuales.una.edu.ar) (Arts college), for a degree in *"Visual Arts with Orientation in Drawing"*.
 - Also currently attending [Digital House](https://www.digitalhouse.com/ar/) for a *full stack web dev certification*.
+- I can speak, read & write spanish, *amigo!* English is not my native language. *¿Pero a que hablo bien no?*
 - I'm really good at fixing stuff, especially if it's a computer.
 - Favourite game: ~~L̶e̸a̸g̶u̷e̶ ̷o̵f̶ ̶L̴e̶g̴e̵n̴d̶s̴~~ Dungeons & Dragons.
 - I like to use **uwu**
