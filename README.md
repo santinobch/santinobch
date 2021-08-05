@@ -11,7 +11,7 @@
 - Full stack web developer.
 - I worked in IT for 3~ years.
 - Programmer for 2~ years (started with Arduino), 1~ year of working experience in different companies.
-- Currently attending the [U.N.A.](https://visuales.una.edu.ar) (Arts college), for a degree in *"Visual Arts with Orientation in Drawing"*.
+- Currently attending the [U.N.A.](https://visuales.una.edu.ar) (Arts college), for a degree in *"Visual Arts with Orientation in Illustration"*.
 - Also currently attending [Digital House](https://www.digitalhouse.com/ar/) for a *full stack web dev certification*.
 - I can speak, read & write spanish, *amigo!* English is not my native language. *¿Pero a que hablo bien no?*
 - I'm really good at fixing stuff, especially if it's a computer.
