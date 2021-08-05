@@ -18,6 +18,8 @@
 - Favourite game: ~~L̶e̸a̸g̶u̷e̶ ̷o̵f̶ ̶L̴e̶g̴e̵n̴d̶s̴~~ Dungeons & Dragons.
 - I like to use **uwu** a ***lot***
 
+<br>
+
 ## Tools i use 🧨
 
 <div style="display: flex; flex-direction: row; justify-content: center;">
@@ -34,3 +36,9 @@
   <img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>  
   <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" width="30px" height="30px" hspace="5" vspace="5"/>
 </div>
+
+<br>
+
+## Language usage
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santinobch&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
