@@ -5,18 +5,15 @@
 ## Contact 💌
 
 - EMail me at santino.bch@gmail.com
-- Or DM me on Insta [@vitodraws](https://www.instagram.com/vitodraws)
 
 ## About me 🧾
 - Full stack web developer.
 - I worked in IT for 3~ years.
-- Programmer for 2~ years (started with Arduino), 1~ year of working experience in different companies.
+- Programmer for 4~ years (started with Arduino), 3~ years of working experience in different companies.
 - Currently attending the [U.N.A.](https://visuales.una.edu.ar) (Arts college), for a degree in *"Visual Arts with Orientation in Illustration"*.
-- Also currently attending [Digital House](https://www.digitalhouse.com/ar/) for a *full stack web dev certification* (2 Year course).
-- I can speak, read & write spanish, *amigo!* English is not my native language. *¿Pero a que hablo bien no?*
+- I can speak, read & write spanish.
 - I'm really good at fixing stuff, especially if it's a computer.
-- Favourite game: ~~L̶e̸a̸g̶u̷e̶ ̷o̵f̶ ̶L̴e̶g̴e̵n̴d̶s̴~~ Dungeons & Dragons.
-- I like to use **uwu** a ***lot***
+- Favourite game: Dungeons & Dragons.
 
 <br>
 
