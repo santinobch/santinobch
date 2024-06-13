@@ -11,7 +11,7 @@
 - I'm really good at fixing stuff, especially if it's a computer.
 - Favourite game: Dungeons & Dragons.
 
-- ## Contact 💌
+## Contact 💌
 
 - EMail me at santino.bch@gmail.com
 
