@@ -1,10 +1,6 @@
 ![](https://github.com/santinobch/santinobch/blob/main/img/github.png?raw=true)
 
-# Hi! I'm Santino! 👁w👁
-
-## Contact 💌
-
-- EMail me at santino.bch@gmail.com
+# Hi! I'm Santino!
 
 ## About me 🧾
 - Full stack web developer.
@@ -14,6 +10,10 @@
 - I can speak, read & write spanish.
 - I'm really good at fixing stuff, especially if it's a computer.
 - Favourite game: Dungeons & Dragons.
+
+- ## Contact 💌
+
+- EMail me at santino.bch@gmail.com
 
 <br>
 
